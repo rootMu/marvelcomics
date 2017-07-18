@@ -1,0 +1,592 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2017 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2017 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2017 MARVEL</a>",
+  "etag": "9b9ef3dfbf21fb395c4267871958b8cd1035f862",
+  "data": {
+    "offset": 0,
+    "limit": 5,
+    "total": 39988,
+    "count": 5,
+    "results": [
+      {
+        "id": 37534,
+        "digitalId": 0,
+        "title": "Magician: Apprentice Riftwar Saga (2010) #17",
+        "issueNumber": 17,
+        "variantDescription": "",
+        "description": "The electrifying conclusion to Raymond E. Feist's epic story! The only thing standing between Crydee and complete destruction is Princess Carline. Can she save Midkemia?",
+        "modified": "2014-05-08T12:18:41-0400",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Digital Comic",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "The electrifying conclusion to Raymond E. Feist's epic story! The only thing standing between Crydee and complete destruction is Princess Carline. Can she save Midkemia?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37534",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/37534/magician_apprentice_riftwar_saga_2010_17?utm_campaign=apiRef&utm_source=54306733de0f5cd1418aa05a85fa062a"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/13431",
+          "name": "Magician: Apprentice Riftwar Saga (2010 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37534/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37534/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37534/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/106314",
+              "name": "cover from Magician: Apprentice Riftwar Saga #17",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37534/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 58634,
+        "digitalId": 0,
+        "title": "A Year of Marvels: The Incredible (2016) #5",
+        "issueNumber": 5,
+        "variantDescription": "",
+        "description": "It’s Halloween in the Marvel U! What does that mean for KATE BISHOP, A.K.A. HAWKEYE? Well, I can’t tell you here but I CAN guarantee it involves a haunted house, some witty one-liners, and a bad guy shot full of arrows… Then it’s time to give thanks for…THE PUNISHER?! When an op goes south, Frank Castle finds himself in a subterranean game of cat and mouse! It’s a life or death tale that’ll satisfy more than any turkey dinner!",
+        "modified": "2016-12-02T14:51:20-0500",
+        "isbn": "",
+        "upc": "75960608483800611",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "It’s Halloween in the Marvel U! What does that mean for KATE BISHOP, A.K.A. HAWKEYE? Well, I can’t tell you here but I CAN guarantee it involves a haunted house, some witty one-liners, and a bad guy shot full of arrows… Then it’s time to give thanks for…THE PUNISHER?! When an op goes south, Frank Castle finds himself in a subterranean game of cat and mouse! It’s a life or death tale that’ll satisfy more than any turkey dinner!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/58634",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/58634/a_year_of_marvels_the_incredible_2016_5?utm_campaign=apiRef&utm_source=54306733de0f5cd1418aa05a85fa062a"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/A-Year-of-Marvels-The-Amazing-5/digital-comic/44144?utm_campaign=apiRef&utm_source=54306733de0f5cd1418aa05a85fa062a"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/21404",
+          "name": "A Year of Marvels: The Incredible (2016 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2016-11-16T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/5841cf991afbf",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/5841cf991afbf",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/58634/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12490",
+              "name": "Laura Braga",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9224",
+              "name": "Paul Davidson",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12952",
+              "name": "Daniel Govar",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12954",
+              "name": "Elliott Casey",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12953",
+              "name": "Todd Casey",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12838",
+              "name": "Jeremy Whitley",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+              "name": "Jordan White",
+              "role": "editor"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/58634/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010808",
+              "name": "Hawkeye (Kate Bishop)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009515",
+              "name": "Punisher"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/58634/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/127854",
+              "name": "cover from A Year of Marvels (2016) #5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/127855",
+              "name": "story from A Year of Marvels (2016) #5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/58634/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 16241,
+        "digitalId": 0,
+        "title": "Cap Transport (2005) #20",
+        "issueNumber": 20,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16241",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/16241/cap_transport_2005_20?utm_campaign=apiRef&utm_source=54306733de0f5cd1418aa05a85fa062a"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2722",
+          "name": "Cap Transport (2005 - 2006)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16241/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5248",
+              "name": "Molly Lazer",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3635",
+              "name": "Joe Quesada",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/367",
+              "name": "Ed Brubaker",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+              "name": "Frank D'Armata",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+              "name": "Steve Epting",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8635",
+              "name": "Randy Gentile",
+              "role": "letterer"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16241/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009252",
+              "name": "Crossbones"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009535",
+              "name": "Red Skull"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010899",
+              "name": "Spitfire"
+            }
+          ],
+          "returned": 4
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16241/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/34009",
+              "name": "Captain America",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/34010",
+              "name": "Twenty-First Century Blitz!",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16241/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 323,
+        "digitalId": 0,
+        "title": "Ant-Man (2003) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "Ant-Man digs deeper to find out who is leaking secret information that threatens our national security.\r\n32 pgs./PARENTAL ADVISORY...$2.99",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "5960605396-01911",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Ant-Man digs deeper to find out who is leaking secret information that threatens our national security.\r\n32 pgs./PARENTAL ADVISORY...$2.99"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/323",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/323/ant-man_2003_2?utm_campaign=apiRef&utm_source=54306733de0f5cd1418aa05a85fa062a"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/551",
+          "name": "Ant-Man (2003 - 2004)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bc69f33cafc0",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bc69f33cafc0",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/323/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/600",
+              "name": "Clayton Crain",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/344",
+              "name": "Daniel Way",
+              "role": "writer"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/323/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/323/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1808",
+              "name": "Cover #1808",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1809",
+              "name": "Interior #1809",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/323/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 21485,
+        "digitalId": 0,
+        "title": "Ultimate X-Men (Spanish Language Edition) (2000) #8",
+        "issueNumber": 8,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 36,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21485",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/21485/ultimate_x-men_spanish_language_edition_2000_8?utm_campaign=apiRef&utm_source=54306733de0f5cd1418aa05a85fa062a"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/5106",
+          "name": "Ultimate X-Men (Spanish Language Edition) (2000 - 2009)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21485/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21485/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011109",
+              "name": "X-Men (Ultimate)"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21485/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/48998",
+              "name": "Cover #48998",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/48999",
+              "name": "Interior #48999",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21485/events",
+          "items": [],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}
